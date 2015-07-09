@@ -1,7 +1,6 @@
 #include <iostream>
 #include <stdio.h>
 #include <string>
-#include <assert.h>
 using namespace std;
 int check(string in) {
     if(in == "blue") return 0;
