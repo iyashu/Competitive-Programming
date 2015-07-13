@@ -15,7 +15,7 @@ int main()
         p=n/2;
         for( i=p;i>=1;i--)
         {
-            if(gcd(i,n)==1){printf("%lld\n",i);break;}
+            if(gcd(i,n)==1) {printf("%lld\n",i);break;}
         }
     }
 }
